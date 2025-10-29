@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9543F1E1&center=true&width=435&lines=Welcome+to+Safe+and+Secure+AI)](https://git.io/typing-svg)
 <!--
 **kamaldhingra1/kamaldhingra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
